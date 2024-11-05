@@ -1,8 +1,3 @@
-p {
-    font-size: 12px;
-    background-color: silver;
-}
-
 h1 {
     font-size: 30px;
     font-weight: bold;
@@ -12,5 +7,5 @@ h1 {
 .recipe {
     font: 24px;
     font-style: italic;
-    color: slategrey;
+    background-color: red;
 }
