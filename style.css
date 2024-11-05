@@ -7,20 +7,20 @@ h1 {
 .recipe {
     font-size: 30px;
     font-style: italic;
-    width: 80px;
+    width: 150px;
     height: 40px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     box-sizing: border-box;
 }
 
 .recipe .lasagna {
-    background-color: blue;
+    background-color: lightgreen;
 }
 
 .recipe .quiche {
-    background-color: purple;
+    background-color: greenyellow;
 }
 
 .recipe .pizza {
-    background-color: blueviolet;
+    background-color: green;
 }
