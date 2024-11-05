@@ -5,7 +5,21 @@ h1 {
 }
 
 .recipe {
-    font: 24px;
+    font-size: 30px;
     font-style: italic;
-    background-color: red;
+    width: auto;
+    height: 40px;
+    margin-bottom: 10px;
+}
+
+.recipe .lasagna {
+    background-color: blue;
+}
+
+.recipe .quiche {
+    background-color: purple;
+}
+
+.recipe .pizza {
+    background-color: blueviolet;
 }
